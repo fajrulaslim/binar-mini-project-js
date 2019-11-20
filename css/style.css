@@ -15,7 +15,7 @@ body {
 
 /* Feature */
 
-.feature p, .team p, footer p {
+.feature p, .team p, footer p, .category-class p {
     font-weight: 200;
     color: #B7B7B7;
 }
